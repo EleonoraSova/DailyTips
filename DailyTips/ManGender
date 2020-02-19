@@ -1,0 +1,17 @@
+package lv.gundega.tips;
+
+public class ManGender {
+
+	public static void main(String[] args) {
+		  
+		
+		System.out.println("          * * *");
+	    System.out.println("            * *");
+	    System.out.println("          *   *");
+	    System.out.println("     * * *     ");
+	    System.out.println("   *       *   ");
+	    System.out.println("  *         *  ");
+	    System.out.println("   *       *   ");
+	    System.out.println("     * * *     ");
+	}
+}
